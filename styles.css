@@ -1,0 +1,70 @@
+
+body{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+.head{
+    background-color: white;
+    text-align: center;
+    padding: 0px;
+}
+.body{
+    background-color: gainsboro;
+    padding: 500px;
+    
+}
+.photo1{
+    background: white;
+    padding: 200px;
+    height: 370px;
+    margin-left: -150px;
+    margin-top: -400px;
+    width: 200px;
+    
+    
+    
+}
+.photo2{
+    background: white;
+    padding: 200px;
+    width: 200px;
+    margin-left: -150px;
+    margin-top: 200px;
+    height: 370px;
+    
+}
+.photo3{
+    background: white;
+    padding: 200px;
+    width: 200px;
+    margin-left: -150px;
+    margin-top: 200px;
+    height: 370px;
+    
+}
+img{
+    margin-left: -200px;
+    margin-top: 0px;
+}
+h2{
+    color:black;
+}
+.titulofoto{
+  margin-top: -210px;
+  margin-left: -180px;
+  height: 60px;
+  width: 900px;
+}
+.fecha{
+      height: 60px;
+      margin-top: -200px;
+      margin-right: -180px;
+  }
+  .arriba{
+    margin-top: 0px;
+    margin-bottom: -150px;
+    display: flex;
+  }
+  .descripcion{
+    margin-left: -180px;
+    width: 570px;
+  }
